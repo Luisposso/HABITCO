@@ -8,8 +8,8 @@ El objetivo es que las personas puedan visualizar su progreso, establecer metas 
 
 # Registro Usuario
 El sistema deberá permitir a los usuarios crear una cuenta ingresando datos como:
-• Nombre
-• Correo electrónico
-• Contraseña
+Nombre
+Correo electrónico
+Contraseña
 
 
