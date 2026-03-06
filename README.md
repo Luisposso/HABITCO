@@ -18,7 +18,11 @@ mediante verificación por correo electrónico.
 El sistema deberá mostrar una pantalla principal (dashboard) donde el usuario pueda
 visualizar:
 • Sus hábitos diarios
+
+
 • Progreso del día
+
+
 @Accesos a las diferentes secciones de hábitos.
 
 
