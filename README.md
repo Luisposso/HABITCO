@@ -19,7 +19,7 @@ El sistema deberá mostrar una pantalla principal (dashboard) donde el usuario p
 visualizar:
 • Sus hábitos diarios
 • Progreso del día
-@ Accesos a las diferentes secciones de hábitos.
+@Accesos a las diferentes secciones de hábitos.
 
 
 
