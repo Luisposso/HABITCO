@@ -29,15 +29,16 @@ Accesos a las diferentes secciones de hábitos.
 
 
 
-# Recuperación de contraseña 
+# Registro de Consumo de Agua 
+El sistema deberá permitir al usuario registrar la cantidad de agua consumida durante
+el día mediante un formulario o botones de incremento.
 
 
+# Registro de actividad física
+El sistema deberá permitir al usuario registrar el tiempo dedicado a realizar ejercicio
+en minutos u horas.
 
 
-# Recuperación de contraseña 
-
-
-
-
-# Recuperación de contraseña 
-
+# Registro de horas de estudio
+El sistema deberá permitir al usuario registrar el tiempo dedicado al estudio
+diariamente.
