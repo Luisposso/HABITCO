@@ -14,5 +14,24 @@ Nombre,Correo electrónico Y Contraseña.
 El sistema deberá permitir a los usuarios recuperar su contraseña en caso de olvido
 mediante verificación por correo electrónico.
 
+# Visualización del panel principal 
+El sistema deberá mostrar una pantalla principal (dashboard) donde el usuario pueda
+visualizar:
+• Sus hábitos diarios
+• Progreso del día
+@ Accesos a las diferentes secciones de hábitos.
 
+
+
+# Recuperación de contraseña 
+
+
+
+
+# Recuperación de contraseña 
+
+
+
+
+# Recuperación de contraseña 
 
