@@ -54,3 +54,15 @@ El sistema mostrará estadísticas del progreso del usuario mediante gráficos o
 
 # Sistema de logros
 El sistema otorgará logros o insignias cuando el usuario cumpla metas o mantenga rachas de hábitos saludables.
+
+
+# Gestión de recordatorios
+El sistema permitirá a los usuarios configurar recordatorios personalizados para realizar sus hábitos diarios.
+
+
+# Visualización de recordatorios
+El sistema permitirá visualizar la lista de recordatorios configurados y activar o desactivar cada uno de ellos.
+
+
+# Gestión del perfil
+El sistema permitirá al usuario visualizar y editar la información de su perfil personal.
