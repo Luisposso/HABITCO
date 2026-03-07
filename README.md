@@ -42,3 +42,15 @@ en minutos u horas.
 # Registro de horas de estudio
 El sistema deberá permitir al usuario registrar el tiempo dedicado al estudio
 diariamente.
+
+
+# Registro de horas de sueño
+El sistema permitirá al usuario registrar las horas de sueño dormidas cada día.
+
+
+# Visualización de estadísticas
+El sistema mostrará estadísticas del progreso del usuario mediante gráficos o indicadores que reflejen el cumplimiento de sus hábitos.
+
+
+# Sistema de logros
+El sistema otorgará logros o insignias cuando el usuario cumpla metas o mantenga rachas de hábitos saludables.
