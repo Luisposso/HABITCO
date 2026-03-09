@@ -1,7 +1,7 @@
 # HABITCO
 
 Plataforma móvil de compra, venta e intercambio de artículos entre estudiantes de una misma institución educativa.
-s una aplicación móvil diseñada para facilitar la compra, venta e intercambio de objetos entre estudiantes dentro de una comunidad universitaria.
+Es una aplicación móvil diseñada para facilitar la compra, venta e intercambio de objetos entre estudiantes dentro de una comunidad universitaria.
 Muchos estudiantes poseen artículos que ya no utilizan, como libros académicos, calculadoras, dispositivos electrónicos, ropa o materiales de estudio, mientras que otros estudiantes pueden necesitarlos. Sin embargo, encontrar compradores o personas interesadas dentro del entorno universitario puede resultar difícil.
 La aplicación busca solucionar este problema creando un mercado digital exclusivo para estudiantes, donde los usuarios puedan publicar artículos, buscarlos fácilmente, comunicarse entre ellos mediante un sistema de chat y coordinar encuentros para realizar la entrega y el pago del producto.
 Además, la aplicación fomentará la economía colaborativa, el reciclaje de recursos y el ahorro entre estudiantes, permitiendo que los productos tengan una segunda vida útil dentro de la comunidad académica.
@@ -31,59 +31,209 @@ RF-05
 El sistema debe validar que los campos obligatorios del registro estén completos antes de crear la cuenta.
 
 
-# Recuperación de contraseña 
-El sistema deberá permitir a los usuarios recuperar su contraseña en caso de olvido
-mediante verificación por correo electrónico.
+# Perfil de Usuario
+
+
+RF-06
+El sistema debe permitir a los usuarios visualizar su perfil personal.
+
+
+RF-07
+El sistema debe permitir a los usuarios editar su información personal.
+
+
+RF-08
+El sistema debe permitir subir o cambiar la foto de perfil.
+
+
+RF-09
+El sistema debe mostrar en el perfil del usuario:
+•	Nombre,
+•	Carrera,
+•	Calificación promedio,
+•	Productos publicados
+
+
+# Inicio De Sesion 
+
+
+RF-10
+El sistema debe mostrar una pantalla de inicio de sesión al abrir la aplicación.
+
+
+RF-11
+El sistema debe permitir a los usuarios ingresar su correo electrónico.
+
+
+RF-12
+El sistema debe permitir a los usuarios ingresar su contraseña.
+
+
+RF-13
+El sistema debe validar que los campos de correo y contraseña no estén vacíos.
+
+
+RF-14 El sistema debe tener un boton de iniciar sesion para el ingreso del usuario cuando se haya validado
+los campos anteriores 
+
 
 # Visualización del panel principal 
-El sistema deberá mostrar una pantalla principal (dashboard) donde el usuario pueda
-visualizar:
 
 
-Sus hábitos diarios
+RF-15
+El sistema debe mostrar en la página principal una lista de productos publicados por los usuarios.
 
 
-Progreso del día
+RF-16
+El sistema debe mostrar los productos más recientes publicados en la plataforma.
 
 
-Accesos a las diferentes secciones de hábitos.
+RF-17
+El sistema debe mostrar una imagen representativa de cada producto.
+
+
+RF-18
+El sistema debe mostrar el nombre del producto.
+
+
+RF-19
+El sistema debe mostrar el precio del producto.
+
+
+RF-20
+El sistema debe mostrar el estado del producto (nuevo o usado).
+
+
+RF-21 
+El sistema debera mostrar una imagen con el articulo mas vendido
+
+
+# Búsqueda de Productos
+
+
+RF-22
+El sistema debe permitir buscar productos por nombre o palabra clave.
+
+
+RF-23
+El sistema debe permitir filtrar productos por categoría.
+
+
+RF-24
+El sistema debe permitir filtrar productos por rango de precio.
+
+
+RF-25
+El sistema debe mostrar los productos disponibles en la pantalla principal.
+
+
+RF-26
+El sistema debe permitir visualizar el detalle completo de un producto.
+
+
+# Detalle del Producto
+
+
+RF-27
+El sistema debe mostrar la información detallada del producto seleccionado.
+Información mostrada:
+•	Imágenes
+•	Nombre
+•	Precio
+•	Descripción
+•	Estado
+•	Información del vendedor
+
+
+RF-28
+El sistema debe mostrar la calificación del vendedor.
+
+
+RF-29
+El sistema debe permitir al usuario contactar al vendedor desde la página del producto.
+
+
+# Calificaciones
+
+
+RF-30
+El sistema debe permitir que los usuarios califiquen a otros usuarios después de una transacción.
+
+
+RF-31
+El sistema debe permitir otorgar calificaciones de 1 a 5 estrellas.
+
+
+RF-32
+El sistema debe permitir agregar comentarios en las calificaciones.
+
+
+RF-33
+El sistema debe mostrar el promedio de calificaciones en el perfil del usuario.
+
+
+# Notificaciones
+
+RF-34
+El sistema debe enviar notificaciones cuando se reciba un mensaje en el chat.
+
+
+RF-35
+El sistema debe notificar cuando un producto reciba interés o contacto.
+
+
+RF-36
+El sistema debe notificar cuando se reciba una calificación.
+
+
+RF-37
+El sistema mostrara un meno con los diferentes tipos de notificaciones el cual para ingresar se hace a traves de la pagina princiapal en un boton 
+
+
+# Navegación
+
+
+RF-38
+El sistema debe contar con una barra de navegación principal.
+Secciones:
+•	Inicio
+•	Buscar
+•	Publicar
+•	Chat
+•	Perfil
+
+
+RF-39
+El sistema debe permitir navegar entre las secciones de la aplicación mediante la barra de navegación.
+
+
+# Chat
+
+
+RF-40
+El sistema debe permitir a los usuarios iniciar conversaciones con otros usuarios.
+
+
+RF-41
+El sistema debe permitir el envío de mensajes en tiempo real.
+
+
+RF-42
+El sistema debe permitir enviar imágenes dentro del chat.
+
+
+RF-43
+El sistema debe permitir compartir comprobantes de pago a través del chat.
+
+
+RF-44
+El sistema debe permitir visualizar el historial de conversaciones.
+
+
+RF-45
+El sistema debe permitir coordinar el encuentro entre comprador y vendedor mediante el chat.
 
 
 
-# Registro de Consumo de Agua 
-El sistema deberá permitir al usuario registrar la cantidad de agua consumida durante
-el día mediante un formulario o botones de incremento.
 
 
-# Registro de actividad física
-El sistema deberá permitir al usuario registrar el tiempo dedicado a realizar ejercicio
-en minutos u horas.
-
-
-# Registro de horas de estudio
-El sistema deberá permitir al usuario registrar el tiempo dedicado al estudio
-diariamente.
-
-
-# Registro de horas de sueño
-El sistema permitirá al usuario registrar las horas de sueño dormidas cada día.
-
-
-# Visualización de estadísticas
-El sistema mostrará estadísticas del progreso del usuario mediante gráficos o indicadores que reflejen el cumplimiento de sus hábitos.
-
-
-# Sistema de logros
-El sistema otorgará logros o insignias cuando el usuario cumpla metas o mantenga rachas de hábitos saludables.
-
-
-# Gestión de recordatorios
-El sistema permitirá a los usuarios configurar recordatorios personalizados para realizar sus hábitos diarios.
-
-
-# Visualización de recordatorios
-El sistema permitirá visualizar la lista de recordatorios configurados y activar o desactivar cada uno de ellos.
-
-
-# Gestión del perfil
-El sistema permitirá al usuario visualizar y editar la información de su perfil personal.
