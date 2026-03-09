@@ -1,4 +1,4 @@
-# HABITCO
+# app movil ventas
 
 Plataforma móvil de compra, venta e intercambio de artículos entre estudiantes de una misma institución educativa.
 Es una aplicación móvil diseñada para facilitar la compra, venta e intercambio de objetos entre estudiantes dentro de una comunidad universitaria.
@@ -234,6 +234,105 @@ RF-45
 El sistema debe permitir coordinar el encuentro entre comprador y vendedor mediante el chat.
 
 
+# Publicacion de productos 
 
+
+RF-46 El sistema debe permitir publicar artículos para venta o intercambio.
+
+
+RF-47 El sistema debe permitir subir imágenes del producto.
+
+
+RF-48 El sistema debe permitir ingresar el nombre del producto.
+
+
+RF-49 El sistema debe permitir ingresar el precio del producto.
+
+
+RF-50 El sistema debe permitir seleccionar la categoría del producto.
+
+
+RF-51 El sistema debe permitir ingresar una descripción del producto.
+
+
+RF-52 El sistema debe permitir indicar el estado del producto (nuevo o usado).
+
+
+RF-53 El sistema debe permitir publicar el producto.
+
+
+RF-54 El sistema debe permitir editar una publicación existente.
+
+
+RF-55 El sistema debe permitir eliminar una publicación.
+
+
+# Calificacion 
+
+
+RF-56 El sistema debe permitir calificar a otro usuario después de una transacción.
+
+
+RF-57 El sistema debe permitir asignar calificaciones de 1 a 5 estrellas.
+
+
+RF-58 El sistema debe permitir agregar comentarios en la calificación.
+
+
+RF-59 El sistema debe mostrar el promedio de calificaciones del usuario.
+
+
+# Mensajes 
+
+
+RF-60
+El sistema debe mostrar el título “Mensajes” en la parte superior de la pantalla.
+
+
+RF-61
+El sistema debe mostrar un botón de menú en la esquina superior izquierda para acceder al menú lateral de la aplicación.
+
+
+RF-62
+El sistema debe mostrar el icono o foto de perfil del usuario en la parte superior derecha.
+
+
+RF-63
+El sistema debe mostrar una barra de búsqueda de conversaciones debajo del encabezado.
+
+
+RF-64
+El sistema debe permitir al usuario buscar conversaciones por nombre del usuario.
+
+
+RF-65
+El sistema debe mostrar los resultados que coincidan con la búsqueda realizada.
+
+
+# Filtros de Productos
+
+
+RF-66
+El sistema debe mostrar una sección denominada “Filtros de productos” donde el usuario pueda seleccionar criterios de búsqueda.
+
+
+RF-67
+El sistema debe permitir aplicar filtros para refinar la búsqueda de productos.
+
+
+RF-68
+El sistema debe permitir filtrar productos por categoría.
+
+Ejemplo de categorías:
+
+Libros
+
+Tecnología
+
+Material académico
+
+Ropa
+
+Accesorios
 
 
