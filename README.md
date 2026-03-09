@@ -1,4 +1,4 @@
-# app movil ventas
+# Intercambio y venta 
 
 Plataforma móvil de compra, venta e intercambio de artículos entre estudiantes de una misma institución educativa.
 Es una aplicación móvil diseñada para facilitar la compra, venta e intercambio de objetos entre estudiantes dentro de una comunidad universitaria.
