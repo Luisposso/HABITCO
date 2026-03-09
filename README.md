@@ -9,9 +9,27 @@ Además, la aplicación fomentará la economía colaborativa, el reciclaje de re
 
 # REQUERIMIENTOS FUNCIONALES 
 
-# Registro Usuario
-El sistema deberá permitir a los usuarios crear una cuenta ingresando datos como:
-Nombre,Correo electrónico Y Contraseña.
+# Registro y Autenticación
+
+RF-01
+El sistema debe permitir que los estudiantes se registren en la aplicación mediante un formulario de creación de cuenta.
+
+
+RF-02
+El sistema debe permitir el inicio de sesión mediante correo electrónico y contraseña.
+
+
+RF-03
+El sistema debe permitir que el usuario recupere su contraseña en caso de olvidarla.
+
+
+RF-04
+El sistema debe permitir que los usuarios cierren sesión desde su cuenta.
+
+
+RF-05
+El sistema debe validar que los campos obligatorios del registro estén completos antes de crear la cuenta.
+
 
 # Recuperación de contraseña 
 El sistema deberá permitir a los usuarios recuperar su contraseña en caso de olvido
