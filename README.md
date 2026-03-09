@@ -1,8 +1,11 @@
 # HABITCO
 
-La aplicación será una plataforma móvil diseñada para ayudar a los usuarios a desarrollar y mantener hábitos saludables mediante el seguimiento diario de actividades como hidratación, ejercicio físico, horas de estudio y descanso.
-La app utilizará gamificación, estadísticas y recordatorios inteligentes para motivar al usuario a mejorar su estilo de vida y mantener constancia en sus rutinas.
-El objetivo es que las personas puedan visualizar su progreso, establecer metas personales y recibir motivación constante, fomentando hábitos positivos a largo plazo.
+Plataforma móvil de compra, venta e intercambio de artículos entre estudiantes de una misma institución educativa.
+s una aplicación móvil diseñada para facilitar la compra, venta e intercambio de objetos entre estudiantes dentro de una comunidad universitaria.
+Muchos estudiantes poseen artículos que ya no utilizan, como libros académicos, calculadoras, dispositivos electrónicos, ropa o materiales de estudio, mientras que otros estudiantes pueden necesitarlos. Sin embargo, encontrar compradores o personas interesadas dentro del entorno universitario puede resultar difícil.
+La aplicación busca solucionar este problema creando un mercado digital exclusivo para estudiantes, donde los usuarios puedan publicar artículos, buscarlos fácilmente, comunicarse entre ellos mediante un sistema de chat y coordinar encuentros para realizar la entrega y el pago del producto.
+Además, la aplicación fomentará la economía colaborativa, el reciclaje de recursos y el ahorro entre estudiantes, permitiendo que los productos tengan una segunda vida útil dentro de la comunidad académica.
+
 
 # REQUERIMIENTOS FUNCIONALES 
 
