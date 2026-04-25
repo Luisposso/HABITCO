@@ -1,6 +1,6 @@
 import { router } from 'expo-router';
 import { useState } from 'react';
-import { Alert, StyleSheet, Text, TextInput, TouchableOpacity, View, KeyboardAvoidingView, Platform, SafeAreaView } from 'react-native';
+import { Alert, KeyboardAvoidingView, Platform, SafeAreaView, StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native';
 import { loginUser } from '../constants/firebaseFunctions';
 
 export default function Login() {
@@ -19,7 +19,7 @@ export default function Login() {
     const result = await loginUser(email, password);
 
     if (result.success) {
-      router.replace('/home');
+      router.replace('/(tabs)');
     } else {
       setErrorMessage(result.message || 'No se pudo iniciar sesión. Verifica tus credenciales.');
     }

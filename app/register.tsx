@@ -1,6 +1,6 @@
 import { router } from 'expo-router';
 import { useState } from 'react';
-import { Alert, StyleSheet, Text, TextInput, TouchableOpacity, View, KeyboardAvoidingView, Platform, SafeAreaView, ScrollView } from 'react-native';
+import { Alert, KeyboardAvoidingView, Platform, SafeAreaView, ScrollView, StyleSheet, Text, TextInput, TouchableOpacity, View } from 'react-native';
 import { registerUser } from '../constants/firebaseFunctions';
 
 export default function Register() {
@@ -27,7 +27,7 @@ export default function Register() {
 
     if (result.success) {
       Alert.alert('¡Bienvenido!', 'Tu cuenta ha sido creada exitosamente.');
-      router.replace('/login');
+      router.replace('/(tabs)');
     } else {
       setErrorMessage(result.message || 'Hubo un error al registrarte.');
     }
